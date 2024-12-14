@@ -1,3 +1,3 @@
-# House-prediction-MLproject -
+# Exploratory Data Analysis -
 
 starting a new ML project.
